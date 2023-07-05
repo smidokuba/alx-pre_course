@@ -1,0 +1,4 @@
+*~*> .gitignore
+cd ..
+exit
+echo *~*
